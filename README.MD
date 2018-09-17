@@ -79,7 +79,7 @@ Exiba a lista de itens e o botão para buscar mais, casso ainda tenha conteúdo 
 
 ----------
 ## Baixando o exemplo
-Para baixar o exemplo, tenho o git instalado e execute os comandos abaixo no terminal/cmd:
+Para visualizar o exemplo, tenha o git instalado e execute os comandos abaixo no terminal/cmd:
 
 ```cmd
 git clone https://github.com/CarlosWGama/ionic-scroll-exemplo.git ./exemplo-scroll
